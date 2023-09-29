@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register menggunakan no telepon</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>com.katalon.plugin.testrail.TestRailIntegration</productName>
+      <properties>
+         <entry>
+            <key>testRail.testcase.id</key>
+            <value>186793</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>8268e513-d133-4825-8d19-bd1681d152da</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5945c85e-d9d4-4db8-9f0b-182c283b737c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2863fdee-315b-4038-9cf8-9baf22fc5b1e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a9d16c77-168e-4d9e-8fd1-0fc4023bfcf0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Data Testing Yaa'</defaultValue>
+      <description></description>
+      <id>5945c85e-d9d4-4db8-9f0b-182c283b737c</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'0857707012455'</defaultValue>
+      <description></description>
+      <id>2863fdee-315b-4038-9cf8-9baf22fc5b1e</id>
+      <masked>false</masked>
+      <name>phoneNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tes123123'</defaultValue>
+      <description></description>
+      <id>a9d16c77-168e-4d9e-8fd1-0fc4023bfcf0</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

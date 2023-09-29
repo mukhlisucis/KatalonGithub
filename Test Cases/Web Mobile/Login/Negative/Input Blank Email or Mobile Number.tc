@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Blank Email or Mobile Number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>149d7d67-7759-40ab-8269-de20dd9a9c08</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5c53089b-2314-414e-ac9b-d2edc1b01b22</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'@Dira2019'</defaultValue>
+      <description></description>
+      <id>5c53089b-2314-414e-ac9b-d2edc1b01b22</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

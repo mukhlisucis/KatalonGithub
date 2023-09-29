@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register menggunakan no telepon - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed000b77-bd1f-41d4-bf63-fe2ed138a1a9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fcae1680-512b-440b-9706-80d98d12c96c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>678808b6-fd51-458d-87bb-05036db541d0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dd8e1447-f299-4959-a752-cf7301b8e45a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Data Testing Yaa'</defaultValue>
+      <description></description>
+      <id>fcae1680-512b-440b-9706-80d98d12c96c</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'0857707012455'</defaultValue>
+      <description></description>
+      <id>678808b6-fd51-458d-87bb-05036db541d0</id>
+      <masked>false</masked>
+      <name>phoneNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tes123123'</defaultValue>
+      <description></description>
+      <id>dd8e1447-f299-4959-a752-cf7301b8e45a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

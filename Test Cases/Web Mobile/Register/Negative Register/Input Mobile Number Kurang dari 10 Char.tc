@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Mobile Number Kurang dari 10 Char</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5243507a-3a24-40d8-8014-11af9a1f39ac</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>907001e8-07a9-4a37-b401-586af09722cd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a1a7133b-fec7-40ae-bd24-fe8179efacf1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>95eca8ca-2cfd-40a3-8798-14a9dc836519</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Data Testing'</defaultValue>
+      <description></description>
+      <id>907001e8-07a9-4a37-b401-586af09722cd</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'085770701'</defaultValue>
+      <description></description>
+      <id>a1a7133b-fec7-40ae-bd24-fe8179efacf1</id>
+      <masked>false</masked>
+      <name>phoneNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tes123123'</defaultValue>
+      <description></description>
+      <id>95eca8ca-2cfd-40a3-8798-14a9dc836519</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

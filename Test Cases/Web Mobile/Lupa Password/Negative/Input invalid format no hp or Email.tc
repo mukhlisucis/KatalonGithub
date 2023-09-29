@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input invalid format no hp or Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3b586f5-ec26-42a7-89d2-a59d170f9f5b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ca9005df-90f7-414b-8c62-35ec267c674d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'invalidformat@-gmail.com'</defaultValue>
+      <description></description>
+      <id>ca9005df-90f7-414b-8c62-35ec267c674d</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>
