@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Hapus centang pada Syarat Ketentuan yang telah dicentang pada halaman register web moservice</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>com.katalon.plugin.testrail.TestRailIntegration</productName>
+      <properties>
+         <entry>
+            <key>testRail.testcase.id</key>
+            <value>186796</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>f15744fe-bad7-457d-8354-e966919adcbc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>160057ae-8f5d-4d06-9ca2-f501ef036679</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4d09a90b-2cc5-4049-8191-5214cdf2d1b2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>de6f5a9e-265f-4547-99df-ad661718bbe6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Data Testing Yaa'</defaultValue>
+      <description></description>
+      <id>160057ae-8f5d-4d06-9ca2-f501ef036679</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'0857707012455'</defaultValue>
+      <description></description>
+      <id>4d09a90b-2cc5-4049-8191-5214cdf2d1b2</id>
+      <masked>false</masked>
+      <name>phoneNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tes123123'</defaultValue>
+      <description></description>
+      <id>de6f5a9e-265f-4547-99df-ad661718bbe6</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

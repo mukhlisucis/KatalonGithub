@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Failed OTP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b2c3fae-d8b6-4259-9619-3df76f879717</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>161ad81a-c896-464e-a683-fee9db24bf0c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>048cc928-563c-45de-9a51-82b1cec1c971</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1f626761-9785-4569-9ab1-53892f8a0806</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9cc2c2e5-4639-4973-beb4-4448649dde1e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Data Testing'</defaultValue>
+      <description></description>
+      <id>161ad81a-c896-464e-a683-fee9db24bf0c</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'0857707012455'</defaultValue>
+      <description></description>
+      <id>048cc928-563c-45de-9a51-82b1cec1c971</id>
+      <masked>false</masked>
+      <name>phoneNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'@Dira2019'</defaultValue>
+      <description></description>
+      <id>1f626761-9785-4569-9ab1-53892f8a0806</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'0000'</defaultValue>
+      <description></description>
+      <id>9cc2c2e5-4639-4973-beb4-4448649dde1e</id>
+      <masked>false</masked>
+      <name>otp</name>
+   </variable>
+</TestCaseEntity>

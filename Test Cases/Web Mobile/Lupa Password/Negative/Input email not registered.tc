@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input email not registered</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d324aa4-4d17-4fd0-866d-eec1bdbd0548</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>daabee98-9aac-4880-8282-2c616e2c7f91</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'unregisteredemailtes@gmail.com'</defaultValue>
+      <description></description>
+      <id>daabee98-9aac-4880-8282-2c616e2c7f91</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

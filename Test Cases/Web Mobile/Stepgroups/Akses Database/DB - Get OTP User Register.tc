@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DB - Get OTP User Register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>57dcf48e-0727-4bc5-87cc-a0a72cae76a5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>25aa25f1-0fe8-42ba-97e9-5466101a76cc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'082257985880'</defaultValue>
+      <description></description>
+      <id>25aa25f1-0fe8-42ba-97e9-5466101a76cc</id>
+      <masked>false</masked>
+      <name>phoneNumber</name>
+   </variable>
+</TestCaseEntity>

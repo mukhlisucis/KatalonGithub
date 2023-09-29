@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register dengan nomor yang sudah terdaftar</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>com.katalon.plugin.testrail.TestRailIntegration</productName>
+      <properties>
+         <entry>
+            <key>testRail.testcase.id</key>
+            <value>186799</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>65348241-fde7-433d-a055-5c97bb6ee2d9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>06cc1e20-89a7-4bca-8d5c-fe526c460212</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c5cbe8bc-2362-43b5-afd1-102de54b4ef4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fc62b583-848f-4d5b-8c45-015f598815e7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Data Testing'</defaultValue>
+      <description></description>
+      <id>06cc1e20-89a7-4bca-8d5c-fe526c460212</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'08971806810'</defaultValue>
+      <description></description>
+      <id>c5cbe8bc-2362-43b5-afd1-102de54b4ef4</id>
+      <masked>false</masked>
+      <name>phoneNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'@Dira2019'</defaultValue>
+      <description></description>
+      <id>fc62b583-848f-4d5b-8c45-015f598815e7</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
