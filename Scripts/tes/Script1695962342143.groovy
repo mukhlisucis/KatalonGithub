@@ -23,11 +23,11 @@ WebUI.back()
 
 WebUI.verifyAlertNotPresent(0)
 
-WebUI.verifyAlertNotPresent(0)
-
-WebUI.check(findTestObject(null))
+WebUI.acceptAlert()
 
 WebUI.acceptAlert()
+
+WebUI.getAlertText()
 
 WebUI.acceptAlert()
 
