@@ -27,3 +27,7 @@ WebUI.verifyAlertNotPresent(0)
 
 WebUI.check(findTestObject(null))
 
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
+
