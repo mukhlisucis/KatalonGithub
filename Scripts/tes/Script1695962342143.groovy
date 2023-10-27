@@ -31,3 +31,5 @@ WebUI.acceptAlert()
 
 WebUI.acceptAlert()
 
+WebUI.openBrowser('')
+
