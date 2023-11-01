@@ -35,7 +35,7 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.waitForElementAttributeValue(findTestObject(null), '', '', 0)
+WebUI.delay(0)
 
 WebUI.check(findTestObject(null))
 
