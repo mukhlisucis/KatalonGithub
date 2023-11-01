@@ -17,14 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-
 WebUI.delay(0)
 
 WebUI.back()
 
 WebUI.enhancedClick(findTestObject(null))
 
-WebUI.acceptAlert()
+WebUI.enhancedClick(findTestObject(null))
 
 WebUI.clearText(findTestObject(null))
 
@@ -33,4 +32,12 @@ WebUI.getAlertText()
 WebUI.concatenate([])
 
 WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
+
+WebUI.waitForElementAttributeValue(findTestObject(null), '', '', 0)
+
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
 
