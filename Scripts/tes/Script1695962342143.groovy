@@ -21,13 +21,13 @@ WebUI.delay(0)
 
 WebUI.back()
 
-WebUI.enhancedClick(findTestObject(null))
+WebUI.scrollToElement(findTestObject(null), 0)
 
-WebUI.enhancedClick(findTestObject(null))
+WebUI.clearText(findTestObject(null))
 
-WebUI.delay(0)
+WebUI.verifyAlertNotPresent(0)
 
-WebUI.getAlertText()
+WebUI.verifyEqual(null, null)
 
 WebUI.concatenate([])
 
@@ -35,7 +35,9 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.waitForElementAttributeValue(findTestObject(null), '', '', 0)
+WebUI.clearText(findTestObject(null))
+
+WebUI.deselectAllOption(findTestObject(null))
 
 WebUI.check(findTestObject(null))
 
