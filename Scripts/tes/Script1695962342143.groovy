@@ -35,9 +35,8 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.clearText(findTestObject(null))
 
-WebUI.deselectAllOption(findTestObject(null))
+WebUI.delay(0)
 
 WebUI.check(findTestObject(null))
 
