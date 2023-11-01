@@ -35,10 +35,7 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-
 WebUI.delay(0)
 
 WebUI.check(findTestObject(null))
-
-WebUI.acceptAlert()
 
