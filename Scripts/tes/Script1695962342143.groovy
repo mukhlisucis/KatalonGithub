@@ -25,7 +25,7 @@ WebUI.enhancedClick(findTestObject(null))
 
 WebUI.enhancedClick(findTestObject(null))
 
-WebUI.clearText(findTestObject(null))
+WebUI.delay(0)
 
 WebUI.getAlertText()
 
@@ -37,7 +37,7 @@ WebUI.maximizeWindow()
 
 WebUI.waitForElementAttributeValue(findTestObject(null), '', '', 0)
 
-WebUI.acceptAlert()
+WebUI.check(findTestObject(null))
 
 WebUI.acceptAlert()
 
